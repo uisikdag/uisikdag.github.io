@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "tr-TR"
+locale                   : "en-US"
 title                    : "Ümit Işıkdağ"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "About Me"
   pronouns         : # example: "she/her"  
-  bio              : "Prof.@ Department of Architecture"
+  bio              : "Machine&Deep Learning,BIM,3D GIS"
   location         : "İstanbul,Türkiye"
-  employer         : "Mimar Sinan Fine Arts University / İstanbul"
+  employer         : "Mimar Sinan Fine Arts University"
   uri              : "https://umit.web.tr"
   email            : "umit.isikdag@msgsu.edu.tr" 
 
