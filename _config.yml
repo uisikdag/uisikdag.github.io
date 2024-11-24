@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "About Me"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Prof.@ Department of Architecture"
+  location         : "İstanbul,Türkiye"
+  employer         : "Mimar Sinan Fine Arts University / İstanbul"
+  uri              : "https://umit.web.tr"
+  email            : "umit.isikdag@msgsu.edu.tr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
