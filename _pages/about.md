@@ -51,10 +51,10 @@ project, where I learned about distributed computing and service oriented approa
 [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), 
 which later helped me to code in [SOAP](https://en.wikipedia.org/wiki/SOAP) and [REST](https://en.wikipedia.org/wiki/REST) styles. 
 This has encouraged me to work on implementation of [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and 
-[Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things) for/within BIM based information sharing environments.
- I was so lucky to find the chance to share my ideas and implementations on BIM based Service Oriented Architectures with this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
+[Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things) 
+for/within BIM based information sharing. Key outputs can be found in this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
 and this [one](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696).
-This research path from distributed computing to IoT is summarized with many design patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
+Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
