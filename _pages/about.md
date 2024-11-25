@@ -29,9 +29,9 @@ Please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/sec
 
 ### Table 1
 
-|                                       Name                        | Year   | Index |
-| ------------------------------------------------------------------| ------ | ------|
-|[Drying shrinkage and crack width prediction using machine learning in mortars containing different types of industrial by-product fine aggregates](https://www.sciencedirect.com/science/article/abs/pii/S2352710224023052)| 2024  | SCIE |
+|                                  Name                             |           Journal                  | Year  | Index |
+| ------------------------------------------------------------------| ---------------------------------- | ------|-------|
+|[Drying shrinkage and crack width prediction using machine learning in mortars containing different types of industrial by-product fine aggregates](https://www.sciencedirect.com/science/article/abs/pii/S2352710224023052)| Journal of Building Engineering |2024  | SCIE |
 
 
 Construction Informatics
