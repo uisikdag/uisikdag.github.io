@@ -40,7 +40,9 @@ BIM and GIS Integration
 ------
  My PhD research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring IFC objects from an ISO10303 [database](https://jotneconnect.com/products/express-data-manager/)
- and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features. 
+ and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features.
+The key outputs of this path where I provide a [summary](https://www.sciencedirect.com/science/article/abs/pii/S1474034608000499) and discuss an [indoor model](https://www.sciencedirect.com/science/article/abs/pii/S0198971513000434)
+I developed have now become two of my mostly cited academic papers.
 {: style="text-align: justify;"}
 
 BIM for the common good
