@@ -9,10 +9,14 @@ redirect_from:
         
 Biography
 ======
-I am currently working as a Professor of Construction Informatics at the Department of Architecture in Mimar Sinan Fine Arts University. 
-I have a Civil Engineering BSc degree from Balikesir University, MSc. in Construction Informatics from the University of Greenwich, 
-and PhD in Construction Informatics from the University of Salford. 
-I would express my deepest respect and gratitude to (all my supervisiors Keith Jones,Ghassan Aouad,Jason Underwood,Nigel Trodd and 
+I am currently working as a Professor of Construction Informatics at the [Department of Architecture in Mimar Sinan Fine Arts University]
+(https://msgsu.edu.tr/akademik/mimarlik-fakultesi/bolumler/mimarlik/). 
+I have a Civil Engineering BSc degree from Balikesir University, , 
+and .
+{: style="text-align: justify;"}
+
+My academic family members were my MSc supervisior Keith Jones and Robert Falconer(MSc. in Construction Informatics from the University of Greenwich),
+Ghassan Aouad,Jason Underwood,Nigel Trodd (PhD in Construction Informatics from the University of Salford)  
 in addition Volker Coors and Sisi Zlatanova, who helped me a lot during my MSc and PhD) and 
 all my primary, secondary school teachers and university academics, 
 and to all my former and current students and former and current research partners and collegues, 
