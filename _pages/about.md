@@ -52,8 +52,8 @@ project, where I learned about distributed computing and service oriented approa
 which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP) and [REST](https://en.wikipedia.org/wiki/REST). 
 This has encouraged me to work on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and 
 [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). I was so lucky to find the chance to
-share my ideas and implementations on this exciting topic with this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
-and this [one] (https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696).
+share my ideas and implementations on BIM based Service Oriented Architectures with this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
+and this [one](https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696).
 This research path from distributed computing to IoT is summarized with many design patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
