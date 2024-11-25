@@ -15,7 +15,7 @@ MSc. in Construction Informatics from [University of Greenwich](https://www.gre.
 [Keith Jones](https://www.aru.ac.uk/people/keith-jones) and advisor [Robert (Bob) Falconer](https://www.linkedin.com/in/bob-falconer-77b6665)
 PhD in Construction Informatics from the [University of Salford](https://hub.salford.ac.uk/uprise-digital-built-environment/) supervisied by 
 [Ghassan Aouad](https://www.adu.ac.ae/about-adu/our-leadership1/leadership-team/professor-ghassan-aouad),[Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood)
-,[Nigel Trodd](https://www.linkedin.com/in/nigeltrodd), and informal advisors [Volker Coors](https://www.hft-stuttgart.de/p/volker-coors),
+,[Nigel Trodd](https://www.linkedin.com/in/nigeltrodd), and my informal advisors [Volker Coors](https://www.hft-stuttgart.de/p/volker-coors),
 [Sisi Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova)
 {: style="text-align: justify;"}
 
