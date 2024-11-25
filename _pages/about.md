@@ -19,7 +19,7 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 [Sisi Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova)
 {: style="text-align: justify;"}
 
-My MSc was on the development of an [Expert System(AI)for Bridge Design](files/msc_thesis.pdf) (1999), here is the [full software](files/msc_code.xls) which needs to [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked)
+My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) (1999), where I developed an MS Excel based [software](files/msc_code.xls) which needs to [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked)
 to run.My PhD started by looking at how an IT Strategy for Turkish Construction Industry can be developed, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
  and my only unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943)book. My following research was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 :2007, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for persisting IFC objects in a 3D GeoDatabase. During and after my PhD 
@@ -29,7 +29,7 @@ and finally [REST](https://en.wikipedia.org/wiki/REST), this has encouraged me t
 (https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things), all this path is summarized in my 
 [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. In addition,in 2013 I worked at University of Central Lancashire with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on various
 on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)
-
+{: style="text-align: justify;"}
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
 Ege University, Beykent University, Istanbul Kultur University, Istanbul University, Istanbul Esenyurt University, 
