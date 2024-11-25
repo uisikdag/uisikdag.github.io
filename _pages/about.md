@@ -20,8 +20,8 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 {: style="text-align: justify;"}
 
 My MSc was on [AI in Bridge Design](files/msc_thesis.pdf):1999 [Full Software](files/msc_code.xls) needs to [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked)
-to run.My PhD started with looking at how an IT Strategy for Turkish Construction Industry can be developed, resulted with my first[Paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
- and my first [Report](https://zenodo.org/records/1331943) in Turkish.My following research was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
+to run.My PhD started with looking at how an IT Strategy for Turkish Construction Industry can be developed, resulted with my first[journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
+ and my unpublished [Report](https://zenodo.org/records/1331943) in Turkish.My following research was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 :2007 [Software Demo](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) is on Youtube.As a senior research fellow I worked at 
 Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in 2004 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
 ,and at University of Central Lancashire in 2013 with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614). 
