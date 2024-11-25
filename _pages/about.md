@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+        
 Biography
 ======
 I am currently working as a Professor of Construction Informatics at the Department of Architecture in Mimar Sinan Fine Arts University. 
