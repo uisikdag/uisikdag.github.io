@@ -66,6 +66,14 @@ and this [one](https://www.sciencedirect.com/science/article/abs/pii/S0926580512
 Path from SOA to IoT is summarized with many Design Patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
+BIM for Valuation in 3D Cadastres
+------
+Volkan Çağdaş, Abdullah Kara
+
+Construction Econometrics
+------
+Aycan Hepsağ
+
 Teaching
 ======
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
