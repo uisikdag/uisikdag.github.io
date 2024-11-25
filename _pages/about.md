@@ -44,7 +44,7 @@ After I graduate from my PhD, I and my supervisor [Jason Underwood](https://www.
 [BIM Handbook](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119287568), due to the name of the series that we have published.In :13 I worked at University of Central Lancashire 
 with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
 
-Distributed Systems,IoT and Smart Cities
+BIM & IoT Integration for Smarter Cities
 ------
 During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Smart Cities with [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
 project, where I learned about distributed computing and service oriented approaches for integration, and frameworks such as 
