@@ -30,15 +30,16 @@ Please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/sec
 Construction Informatics
 ------
 My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
- and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book.Following this our joint efforts together with 
+ and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book.Following this, our joint efforts together with 
  [Turkish Association of Informatics](https://www.tbd.org.tr/) have resulted in an 
 academic conference series namely [Informatics for Builgding and Cities](https://www.tbd.org.tr/yapi-ve-kennte-bilisim-iv-bildiriler-kitabi-tbd-tbb-tmbd/) which has been organized 4 times, till 2006.
 Later I started Construction Informatics [workshop](https://insaatbilisim.weebly.com/) in Turkish Academic Informatics [conference](https://www.ab.org.tr/) which ran for several years.
 
 BIM and GIS Integration
 ------
- My following research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
-, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring and persisting IFC objects into a 3D GeoDatabase. 
+ My PhD research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
+, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring IFC objects from an ISO10303 [database](https://jotneconnect.com/products/express-data-manager/)
+ and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features. 
 
 BIM for the common good
 ------ 
