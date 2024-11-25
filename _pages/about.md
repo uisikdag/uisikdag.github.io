@@ -9,7 +9,7 @@ redirect_from:
         
 Biography
 ======
-I am currently working as a Professor of Construction Informatics at the [Department of Architecture in Mimar Sinan Fine Arts University]
+I am currently working as a Professor of Construction Informatics at the [Department of Architecture in Mimar Sinan Fine Arts University] 
 (https://msgsu.edu.tr/akademik/mimarlik-fakultesi/bolumler/mimarlik/). 
  
 and .
