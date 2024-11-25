@@ -19,8 +19,9 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 [Sisi Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova)
 {: style="text-align: justify;"}
 
-My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls) which needs to [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked)
-to run.My PhD started by looking at how an IT Strategy for Turkish Construction Industry can be developed, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
+My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls)
+please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked) to try it.
+My PhD started by looking at how an IT Strategy for Turkish Construction Industry can be developed, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
  and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book. My following research was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 :01-07, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for persisting IFC objects in a 3D GeoDatabase. During and after my PhD 
 I worked as a senior research fellow at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in 2004 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
