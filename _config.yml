@@ -26,17 +26,18 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine&Deep Learning,BIM,3D GIS"
   location         : "İstanbul,Türkiye"
-  employer         : "Mimar Sinan Fine Arts University"
+  employer         : "Mimar Sinan Fine Arts University
+  "
   uri              : "https://umit.web.tr"
   email            : "umit.isikdag@msgsu.edu.tr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.tr/citations?user=weQbA-EAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2660-0106"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # url
   researchgate     : # URL
   scopus           : # URL
 
