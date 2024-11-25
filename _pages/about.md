@@ -44,9 +44,9 @@ After I graduate from my PhD, I and my supervisor [Jason Underwood](https://www.
 [BIM HandBook](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119287568) which is a must read for every BIM enthusiast.In :13 I worked at University of Central Lancashire 
 with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
 
-Distributed Systems
+Distributed Systems,IoT and Smart Cities
 ------
-During and after my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
+During and after my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Smart Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
 research project,where I learned about distributed computing, and frameworks such as [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP)
 and styles such as[REST](https://en.wikipedia.org/wiki/REST). This has encouraged me to work on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
 and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). This research path from distributed computing to IoT is summarized in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
