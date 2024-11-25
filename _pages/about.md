@@ -26,12 +26,19 @@ Artificial Intelligence
 My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls)
 please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked) to try it.
 
+Construction Informatics
+------
+My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
+ and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book.
 
 BIM and GIS Integration
 ------
-My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
- and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book. My following research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
-, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring and persisting IFC objects into a 3D GeoDatabase. In addition,in :13 I worked at University of Central Lancashire with 
+ My following research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
+, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring and persisting IFC objects into a 3D GeoDatabase. 
+
+BIM for Good
+------ 
+In addition,in :13 I worked at University of Central Lancashire with 
 [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
 
 Distributed Systems
