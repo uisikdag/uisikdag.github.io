@@ -27,7 +27,7 @@ Artificial Intelligence
 My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls).
 Please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked) to try it.
 
-                                 Name                               |         Source                     | Year  | Index |
+|                                Name                               |         Source                     | Year  | Index |
 | ------------------------------------------------------------------| ---------------------------------- | ------|-------|
 |[Drying shrinkage and crack width prediction using machine learning in mortars containing different types of industrial by-product fine aggregates](https://www.sciencedirect.com/science/article/abs/pii/S2352710224023052)| Journal of Building Engineering |2024  | SCIE |
 |[Cooling load prediction of a double-story terrace house using ensemble learning techniques and genetic programming with SHAP approach](https://www.sciencedirect.com/science/article/abs/pii/S0378778824003700)| Energy and Buildings |2024 | SCIE |
