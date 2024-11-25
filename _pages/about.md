@@ -21,6 +21,7 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 
 Research Paths
 ======
+
 Artificial Intelligence
 ------
 My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls).
@@ -29,14 +30,19 @@ Construction Informatics
 ------
 My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
  and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book.
+
 BIM and GIS Integration
 ------
  My following research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring and persisting IFC objects into a 3D GeoDatabase. 
+
 BIM for Good
 ------ 
-In addition,in :13 I worked at University of Central Lancashire with 
-[Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
+After I graduate from my PhD, I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
+[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in academia, the book has a very similar name to the 
+[BIM HandBook](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119287568) which is a must read for every BIM enthusiast.In :13 I worked at University of Central Lancashire 
+with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
+
 Distributed Systems
 ------
 During and after my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
