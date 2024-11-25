@@ -40,16 +40,21 @@ BIM and GIS Integration
 BIM for Good
 ------ 
 After I graduate from my PhD, I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
-[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in academia, the book has a very similar name to the 
-[BIM HandBook](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119287568) which is a must read for every BIM enthusiast.In :13 I worked at University of Central Lancashire 
+[Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in academia, the book had a very similar name with the other
+[BIM Handbook](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119287568), due to the name of the series that we have published.In :13 I worked at University of Central Lancashire 
 with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
 
 Distributed Systems,IoT and Smart Cities
 ------
-During and after my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Smart Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
-research project,where I learned about distributed computing, and frameworks such as [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP)
-and styles such as[REST](https://en.wikipedia.org/wiki/REST). This has encouraged me to work on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
-and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). This research path from distributed computing to IoT is summarized in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
+During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Smart Cities with [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
+project, where I learned about distributed computing and service oriented approaches for integration, and frameworks such as 
+[COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), 
+which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP) and [REST](https://en.wikipedia.org/wiki/REST). 
+This has encouraged me to work on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and 
+[Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). I was so lucky to find the chance to
+share my ideas and implementations on this exciting topic with this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
+and this [one] (https://www.sciencedirect.com/science/article/abs/pii/S0926580512000696).
+This research path from distributed computing to IoT is summarized with many design patterns in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
