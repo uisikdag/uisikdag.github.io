@@ -32,7 +32,7 @@ Construction Informatics
 My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
  and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book.Following this, our joint efforts together with 
  [Turkish Association of Informatics](https://www.tbd.org.tr/) have resulted in an 
-academic conference series namely [Informatics for Builgding and Cities](https://www.tbd.org.tr/yapi-ve-kennte-bilisim-iv-bildiriler-kitabi-tbd-tbb-tmbd/) which has been organized 4 times, till 2006.
+academic conference series namely [Informatics for Structures and Cities](https://www.tbd.org.tr/yapi-ve-kennte-bilisim-iv-bildiriler-kitabi-tbd-tbb-tmbd/) which has been organized 4 times, till 2006.
 Later I started Construction Informatics [workshop](https://insaatbilisim.weebly.com/) in Turkish Academic Informatics [conference](https://www.ab.org.tr/) which ran for several years.
 {: style="text-align: justify;"}
 
