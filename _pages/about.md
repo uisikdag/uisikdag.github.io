@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+{% include toc %}
+
+
+
 Welcome to my academic web site. My [academia.edu](https://mimarsinan.academia.edu/umit) pages are still active.Test
 
 
