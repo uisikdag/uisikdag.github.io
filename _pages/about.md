@@ -37,7 +37,7 @@ BIM and GIS Integration
  My following research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring and persisting IFC objects into a 3D GeoDatabase. 
 
-BIM for Good
+BIM for the common good
 ------ 
 After I graduate from my PhD, I and my supervisor [Jason Underwood](https://www.salford.ac.uk/our-staff/jason-underwood), worked on publishing the 1st edited/multi-author 
 [Handbook of Research on BIM ](https://www.igi-global.com/book/handbook-research-building-information-modeling/37234) in academia, the book had a very similar name with the other
