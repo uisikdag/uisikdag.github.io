@@ -19,7 +19,8 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 [Sisi Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova)
 {: style="text-align: justify;"}
 
-My MSc research was about AI (Expert Systems) which I completed in 1999 and my Ph.D. research was about BIM-3D GIS integration which I completed in 2007. 
+My MSc research was about [AI in Bridge Design](files/msc_thesis.pdf):1999 and my Ph.D. was about [BIM-3D GIS](https://www.proquest.com/openview/08b8d3be4b3ea4b0c68ebc3325d0d196/1)
+:2007. 
 
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
