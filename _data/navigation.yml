@@ -6,17 +6,14 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/  
 
-  - title: "Talks"
+  - title: "Call for Papers"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/      
-
+  
   - title: "CV"
     url: /cv/
 
