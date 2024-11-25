@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine&Deep Learning,BIM,3D GIS"
   location         : "İstanbul,Türkiye"
-  employer         : "Mimar Sinan Fine Arts University"
+  employer         : "Mimar Sinan Fine Arts University
+  "
   uri              : "https://umit.web.tr"
   email            : "umit.isikdag@msgsu.edu.tr" 
 
@@ -56,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "/in/isikdag"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
