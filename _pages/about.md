@@ -42,8 +42,7 @@ Distributed Systems
 During and after my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
 research project,where I learned about distributed computing, and frameworks such as [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP)
 and styles such as[REST](https://en.wikipedia.org/wiki/REST). This has encouraged me to work on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
-and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). This research path from distributed computing to IoT is summarized in my [BIM and IoT Integration Patterns]
-(https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
+and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). This research path from distributed computing to IoT is summarized in my [BIM and IoT Integration Patterns](https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
