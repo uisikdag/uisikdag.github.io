@@ -26,6 +26,7 @@ Artificial Intelligence
 ------
 My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls).
 Please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked) to try it.
+
 Construction Informatics
 ------
 My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
