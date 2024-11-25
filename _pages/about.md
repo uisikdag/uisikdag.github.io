@@ -47,9 +47,9 @@ with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BI
 BIM & IoT Integration for Smarter Cities
 ------
 During my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Smart Cities with [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
-project, where I learned about distributed computing and service oriented approaches for integration, and frameworks such as 
+project, where I learned about distributed computing and service oriented approaches for integration, and  coded in frameworks such as 
 [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), 
-which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP) and [REST](https://en.wikipedia.org/wiki/REST). 
+which later helped me to code in [SOAP](https://en.wikipedia.org/wiki/SOAP) and [REST](https://en.wikipedia.org/wiki/REST) styles. 
 This has encouraged me to work on implementation of [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and 
 [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [IoT](https://en.wikipedia.org/wiki/Internet_of_things) for/within BIM based information sharing environments.
  I was so lucky to find the chance to share my ideas and implementations on BIM based Service Oriented Architectures with this [paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580509001769)
