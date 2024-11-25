@@ -20,13 +20,13 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 {: style="text-align: justify;"}
 
 My MSc was on [AI in Bridge Design](files/msc_thesis.pdf):1999 and my Ph.D. was on [BIM->3D GIS](https://www.proquest.com/openview/08b8d3be4b3ea4b0c68ebc3325d0d196/1)
-:2007. 
+:2007.As a senior research fellow I worked at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in 2004, and 
+at University of Central Lancashire in 2013 with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614). 
 
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
 Ege University, Beykent University, Istanbul Kultur University, Istanbul University, Istanbul Esenyurt University, 
-Bogazici University, Istanbul Technical University. In addition,I have worked as a senior researcher at Coventry University (2004), 
-and the University of Central Lancashire (2013). 
+Bogazici University, Istanbul Technical University. I have worked as a senior researcher 
 
 I have given guest lectures and talks in different organisations including 
 TU Delft, Universiti Teknologi Malaysia, HfT Stuttgart, 
