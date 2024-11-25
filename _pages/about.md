@@ -19,18 +19,28 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 [Sisi Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova)
 {: style="text-align: justify;"}
 
+Research Paths
+======
+Artificial Intelligence
+------
 My MSc was on the development of an [Expert System (AI) for Bridge Design](files/msc_thesis.pdf) :98-99, where I developed an MS Excel based [software](files/msc_code.xls)
 please [unblock macros](https://learn.microsoft.com/en-en/microsoft-365-apps/security/internet-macros-blocked) to try it.
-My PhD started by looking at how an IT Strategy for Turkish Construction Industry can be developed, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
- and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book. My following research was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
-:01-07, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for persisting IFC objects in a 3D GeoDatabase. During and after my PhD 
-I worked as a senior research fellow at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in 2004 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
-where I learned about advanced distributed computing frameworks such as [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP)
-and finally [REST](https://en.wikipedia.org/wiki/REST), this has encouraged me to worked on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and later on [DesignPatterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
-and [IoT](https://en.wikipedia.org/wiki/Internet_of_things), all this path is summarized in my [BIM and IoT Integration Patterns]
-(https://link.springer.com/book/10.1007/978-3-319-21825-0) book. In addition,in :13 I worked at University of Central Lancashire with 
-[Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on various
-on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html)
+
+
+BIM and GIS Integration
+------
+My PhD journey started by looking at IT Strategy for Turkish Construction Industry :01-02, which resulted with my first [journal paper](https://www.emerald.com/insight/content/doi/10.1108/09699980410547595/full/html)
+ and my unpublished [Turkish Construction IT Vision](https://zenodo.org/records/1331943) book. My following research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
+, where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring and persisting IFC objects into a 3D GeoDatabase. In addition,in :13 I worked at University of Central Lancashire with 
+[Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614), on [BIM 2.0](https://www.emerald.com/insight/content/doi/10.1108/14714171111148990/full/html).
+
+Distributed Systems
+------
+During and after my PhD I worked as a Senior Researcher at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in :04 on Intelligent Cities [IntelCities](https://www.itas.kit.edu/english/projects_pask04_intelcity.php)
+research project,where I learned about distributed computing, and frameworks such as [COM+](https://en.wikipedia.org/wiki/Component_Object_Model) and [CORBA](https://www.corba.org/), which later helped me to understand [SOAP](https://en.wikipedia.org/wiki/SOAP)
+and styles such as[REST](https://en.wikipedia.org/wiki/REST). This has encouraged me to work on [SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture) and [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern) 
+and [IoT](https://en.wikipedia.org/wiki/Internet_of_things). This research path from distributed computing to IoT is summarized in my [BIM and IoT Integration Patterns]
+(https://link.springer.com/book/10.1007/978-3-319-21825-0) book. 
 {: style="text-align: justify;"}
 
 I have started teaching in 1999 and since then I have worked full and part time at (chronological order:) 
