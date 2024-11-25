@@ -8,11 +8,14 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Call for Papers"
+  - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
+  
+    - title: "Team"
+    url: /team/
   
   - title: "CV"
     url: /cv/
