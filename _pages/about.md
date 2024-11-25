@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic web site. My [academia.edu](https://mimarsinan.academia.edu/umit) pages are still active.
+Welcome to my academic web site. My [academia.edu](https://mimarsinan.academia.edu/umit) pages are still active.Test
 
 
 A data-driven personal website
