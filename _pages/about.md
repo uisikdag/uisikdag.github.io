@@ -34,12 +34,14 @@ My PhD journey started by looking at IT Strategy for Turkish Construction Indust
  [Turkish Association of Informatics](https://www.tbd.org.tr/) have resulted in an 
 academic conference series namely [Informatics for Builgding and Cities](https://www.tbd.org.tr/yapi-ve-kennte-bilisim-iv-bildiriler-kitabi-tbd-tbb-tmbd/) which has been organized 4 times, till 2006.
 Later I started Construction Informatics [workshop](https://insaatbilisim.weebly.com/) in Turkish Academic Informatics [conference](https://www.ab.org.tr/) which ran for several years.
+{: style="text-align: justify;"}
 
 BIM and GIS Integration
 ------
  My PhD research :02-07 was on [BIM GIS Integration](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 , where I developed a [software](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ) for transferring IFC objects from an ISO10303 [database](https://jotneconnect.com/products/express-data-manager/)
  and persisting into a 3D GeoDatabase as [multipatch](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/multipatch-geometry-type.pdf) features. 
+{: style="text-align: justify;"}
 
 BIM for the common good
 ------ 
