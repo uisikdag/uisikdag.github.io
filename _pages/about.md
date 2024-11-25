@@ -19,7 +19,8 @@ PhD in Construction Informatics from the [University of Salford](https://hub.sal
 [Sisi Zlatanova](https://research.unsw.edu.au/people/professor-sisi-zlatanova)
 {: style="text-align: justify;"}
 
-My MSc was on [AI in Bridge Design](files/msc_thesis.pdf):1999 [Software Demo](files/msc_code.xls), and my Ph.D. was on [BIM->3D GIS](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
+My MSc was on [AI in Bridge Design](files/msc_thesis.pdf):1999 [Software Demo](files/msc_code.xls)[unblock macros](https://learn.microsoft.com/tr-tr/microsoft-365-apps/security/internet-macros-blocked)
+,and my Ph.D. was on [BIM->3D GIS](https://salford-repository.worktribe.com/output/1434038/towards-the-implementation-of-building-information-models-in-geospatial-context)
 :2007[Software Demo Video](https://www.youtube.com/playlist?list=PLjWRQUTDgLAPZ0EGWbw3UMj27GU4nMYFZ).As a senior research fellow I worked at Coventry University with [Nigel Trodd](https://www.linkedin.com/in/nigeltrodd) in 2004, and 
 at University of Central Lancashire in 2013 with [Jack Goulding](https://www.linkedin.com/in/jack-goulding-a0412614). 
 
